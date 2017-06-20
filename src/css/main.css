@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "NotoSubset";
+  src: url("../fonts/NotoSerifCJKjp-Lightp-ori.woff") format('woff');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "NotoSubset";
+}
+
+body {
+  font-size: 1.6em;
+  overflow-y: scroll;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  transition: .8s;
+  padding: 0 3px;
+}
+
+a:hover {
+  color: #666;
+  transition: .2s;
+}
+
+a[target="_blank"] {
+  border-left: 1px dotted #aaa;
+}

@@ -1,0 +1,30 @@
+{
+  "name": "nagame-sora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-convert-encoding": "^1.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-riot": "^1.1.1",
+    "gulp-watch": "^4.3.11",
+    "node-sass": "^4.5.3",
+    "riot-route": "^3.1.1",
+    "riotify": "^2.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "riot": "^3.6.0",
+    "echo-js": "^1.7.3",
+    "animejs": "^2.0.2"
+  }
+}
