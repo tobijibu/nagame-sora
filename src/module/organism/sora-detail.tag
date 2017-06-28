@@ -1,3 +1,4 @@
+//- 詳細ページ
 sora-detail
   div.btn
     close-btn

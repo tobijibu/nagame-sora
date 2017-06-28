@@ -1,4 +1,4 @@
-//- ‘O‚ÖƒŠƒ“ƒN
+//- å‰ã¸ãƒªãƒ³ã‚¯
 prev-link
   div.prev(onclick = '{changePage}')
     div.cursor

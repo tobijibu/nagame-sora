@@ -1,4 +1,4 @@
-//- •Â‚¶‚éƒ{ƒ^ƒ“
+//- é–‰ã˜ã‚‹ãƒœã‚¿ãƒ³
 close-btn
   div.close(onclick = '{closeDetail}')
     div.left

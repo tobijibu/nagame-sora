@@ -1,4 +1,4 @@
-//- Ÿ‚ÖƒŠƒ“ƒN
+//- æ¬¡ã¸ãƒªãƒ³ã‚¯
 next-link
   div.next(onclick = '{changePage}')
     div.cursor
@@ -22,6 +22,7 @@ next-link
         transition: .8s;
       }
     }
+
     .next:hover {
       cursor: pointer;
       div {
